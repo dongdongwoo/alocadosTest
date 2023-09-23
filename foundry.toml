@@ -1,0 +1,10 @@
+[profile.default]
+src = 'contracts'
+out = 'out'
+libs = ['lib']
+test = 'test'
+optimizer = false
+
+eth_rpc_url = "https://eth.llamarpc.com"
+
+# See more config options https://github.com/foundry-rs/foundry/tree/master/config
